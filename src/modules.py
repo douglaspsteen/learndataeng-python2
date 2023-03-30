@@ -1,3 +1,5 @@
+# import custom class (as module) that we created before
+# and use it
 from my_classes import MyAge
 
 
