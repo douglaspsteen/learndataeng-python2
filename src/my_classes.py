@@ -17,6 +17,6 @@ class MyAge:
 
 
 # instantiate the class and execute the print function
-age = MyAge("1982-08-04", "Mr James")
+age = MyAge("1992-04-28", "Doug")
 print(age.show_me_my_age())
 # > 'Mr James, you are so young, only 39 years old!'
