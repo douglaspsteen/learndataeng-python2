@@ -1,7 +1,7 @@
 import pandas as pd
 # load a csv file
 e_commerce_data_path_csv = "./data/data.csv"
-e_commerce_data_fake_path_csv = "./data/fake_data.csv"
+e_commerce_data_fake_path_csv = "./data/fake_data_filename.csv"
 
 # try - except example, raise a BaseException
 
